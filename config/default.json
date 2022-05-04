@@ -1,6 +1,6 @@
 {
 	"desk": {
-		"ip": "192.168.6.221",
+		"ip": "192.168.6.243",
 		"receive_port": 8001,
 		"send_port": 9001,
 		"channel_count": 48
